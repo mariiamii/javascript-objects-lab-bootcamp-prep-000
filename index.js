@@ -1,4 +1,6 @@
-var recipes = newObj
+var recipes = new Object({keys:'1'});
+
+
 
 
 
