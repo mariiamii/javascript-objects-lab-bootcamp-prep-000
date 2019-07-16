@@ -1,4 +1,5 @@
-var recipes = new Object({keys:'1'});
+var recipes = new Object({})
+
 
 
 
